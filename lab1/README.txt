@@ -1,2 +1,2 @@
 Realizuota žinučių sistema.
-![]("zinutes.JPG")
+![](zinutes.JPG)
